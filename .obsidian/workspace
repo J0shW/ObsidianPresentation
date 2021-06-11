@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "db7b1a7e043d2a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c9b25d0f83f7699",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Plugins.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3170e851af859a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "474f2d5f49ca8b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "579915035f9523f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "244267e30a129dcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#philosophy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4b88659d6c3d170",
+    "type": "split",
+    "children": [
+      {
+        "id": "af543d29bd977f3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae9e18b410c974d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plugins.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "022b1fa2e7a2c630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c9b25d0f83f7699",
+  "lastOpenFiles": [
+    "Plugins.md",
+    "Customization.md",
+    "8. Plugins.md",
+    "Tags.md",
+    "Markdown.md",
+    "6. Customization.md",
+    "Backlinks.md",
+    "9. Markdown.md",
+    "Untitled.md",
+    "Graph View.md"
+  ]
+}
