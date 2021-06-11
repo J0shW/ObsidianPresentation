@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plugins.md",
-            "mode": "preview"
+            "file": "Internal links.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins.md",
+                "file": "Internal links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "6c9b25d0f83f7699",
   "lastOpenFiles": [
+    "Internal links.md",
+    "Graph View.md",
     "Plugins.md",
     "Customization.md",
     "8. Plugins.md",
@@ -106,8 +108,6 @@
     "Markdown.md",
     "6. Customization.md",
     "Backlinks.md",
-    "9. Markdown.md",
-    "Untitled.md",
-    "Graph View.md"
+    "9. Markdown.md"
   ]
 }
